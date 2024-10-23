@@ -1,4 +1,4 @@
-👋 Hey there! I'm Leticia, but you can call me Lets 🚀\
+👋 Hey there! I'm Leticia, but you can call me Let 🚀\
 I'm a Junior Full-Stack Web Developer based in Brazil 🇧🇷, driven by a love for learning and crafting meaningful web experiences. I’m always improving, and I’m passionate about working with modern technologies to build projects that are simple, fast, and user-friendly. If you're into all things code, technology, and UX—you're in the right place!
 
 💡 A Bit About Me\
